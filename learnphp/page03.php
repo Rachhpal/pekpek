@@ -1,4 +1,4 @@
-<!--<?php 
+<?php 
 $x = 0; 
 
 while($x <= 22) {
@@ -8,7 +8,7 @@ while($x <= 22) {
     $x += 2;
 } 
 
-?>-->
+?>
 
 <?php 
 $fruit = ["cherry", "apple", "peach", "plum"];
